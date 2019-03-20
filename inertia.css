@@ -1,0 +1,150 @@
+
+h1{
+  text-align: center;
+  color: white;
+}
+h2{
+  display: block;
+  color: white;
+}
+  body{
+    height: 100%;
+    background: linear-gradient(180deg, #365899 15%, #fff 20%);
+}
+
+
+.con{
+  margin-top: 50px;
+}
+
+.c{
+color: white;
+margin-top: 40px;
+margin-left: 20px;
+}
+.c a{
+  color:white;
+}
+
+
+.d{
+  text-align: center;
+  color:black;
+  background-color: white;
+}
+
+}
+.d h3{
+  color:#282828;
+}
+.d h4{
+  color:#333333;
+}
+.d p{
+  color:#999999;
+}
+
+.d h6{
+  color:blue;
+}
+.e{
+  background-color: white;
+}
+
+.e h3,h5{
+  text-align: center;
+}
+
+.e h5{
+  color:#999999;
+}
+.e h2{
+  color:#999999;
+}
+.row {
+  margin-left: 60px;
+}
+.e hr{
+  color:black;
+}
+
+
+.f{
+  text-align: center;
+}
+.f h2{
+  color: #333333;
+}
+.f h6{
+  color:#999999;
+}
+
+.f h5{
+  color: #272727;
+}
+.f #h{
+  margin-left: 60px;
+  color:blue;
+}
+
+.g{
+  text-align: center;
+}
+
+.g h2{
+  margin-left: 110px;
+  color:#333333;
+}
+
+.g h5{
+  margin-left: 100px;
+  color:#999999;
+}
+
+.g h4{
+  margin-left: 120px;
+  color:#333333;
+}
+
+.g h6{
+  color:#999999;
+}
+
+
+.h h2{
+  color:#333333;
+}
+
+.h h6{
+ color: #999999;
+}
+
+.i{
+  text-align: center;
+}
+
+.i h2{
+  margin-left: 110px;
+  color:#333333;
+}
+
+.i h6{
+  color:#999999;
+}
+
+.j h2{
+  color: #333333;
+}
+
+.j h6{
+  color: #999999;
+}
+
+.k h2{
+  text-align: center;
+  color:#333333;
+}
+
+.k img{
+ margin-left: 180px;
+}
